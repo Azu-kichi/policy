@@ -1,6 +1,6 @@
 # kyomosodatsu-policy
 
-Android アプリ「きょうもそだつ」（`com.kyomosodatsu.app`）のプライバシーポリシーを
+Android アプリ「おてつだいカレンダー ツダツダ」（`com.kyomosodatsu.app`）のプライバシーポリシーを
 GitHub Pages で公開するためのリポジトリ。**アプリ本体のコードは含まない。**
 
 - 公開ページ: https://ryosukenoji.github.io/kyomosodatsu-policy/

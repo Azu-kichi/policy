@@ -86,3 +86,7 @@ Android の標準機能（自動バックアップ）により、アプリのデ
 
 - 開発者: Azukichi
 - 連絡先: azukichi2026@gmail.com
+
+---
+
+Azukichi の他のアプリのプライバシーポリシー: [「計算 ケタギア」](flash-calc/)
